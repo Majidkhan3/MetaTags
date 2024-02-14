@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    height: 350px;
+    min-width: 0px;
+
+
+}
+
+.hub {
+    position: relative;
+    cursor: default;
+    width: 685px;
+    height: 350px;
+}
+
+.hero {
+    height: 600px;
+}

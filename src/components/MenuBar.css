@@ -1,0 +1,17 @@
+/* styles/MyComponent.module.css */
+.image-container {
+    filter: invert(1);
+    width: 224px;
+    /* Default filter */
+}
+
+.image-container.dark {
+    filter: none;
+    /* Filter when dark theme is active */
+}
+
+/* .image-container.light {
+    filter: none;
+    /* Filter when light theme is active */
+/* }
+ */
